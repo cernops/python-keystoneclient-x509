@@ -1,0 +1,3 @@
+[keystoneclient.auth.plugin]
+v3x509 = keystoneclient_x509.v3:X509
+

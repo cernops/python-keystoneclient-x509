@@ -1,0 +1,29 @@
+Metadata-Version: 1.1
+Name: python-keystoneclient-x509
+Version: 0.0.1
+Summary: x509 authentication for the OpenStack clients
+License: UNKNOWN
+Description: ===============================
+        python-keystoneclient-x509
+        ===============================
+        
+        x509 authentication for the OpenStack clients
+        
+        * Free software: Apache license
+        
+        Features
+        --------
+        
+        * TODO
+        
+        
+Platform: UNKNOWN
+Classifier: Environment :: OpenStack
+Classifier: Intended Audience :: Information Technology
+Classifier: Intended Audience :: System Administrators
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Operating System :: POSIX :: Linux
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 2.6
