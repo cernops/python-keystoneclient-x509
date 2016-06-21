@@ -11,7 +11,7 @@
 # under the License.
 
 from keystoneclient.auth.identity import v3
-from oslo.config import cfg
+from oslo_config import cfg
 
 class X509Method(v3.AuthMethod):
 
