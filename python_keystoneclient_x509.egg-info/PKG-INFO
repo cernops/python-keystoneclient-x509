@@ -1,6 +1,6 @@
 Metadata-Version: 1.1
 Name: python-keystoneclient-x509
-Version: 0.0.1
+Version: 0.0.2
 Summary: x509 authentication for the OpenStack clients
 License: UNKNOWN
 Description: ===============================
